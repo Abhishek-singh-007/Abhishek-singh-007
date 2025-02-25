@@ -45,7 +45,7 @@
 
 ## Connect with me:
 
-<a href="https://leetcode.com/u/abhiTech_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashutosh232002" height="30" width="30" /></a>
+<a href="https://leetcode.com/u/abhiTech_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishek" height="30" width="30" /></a>
 </p>
 
 ## Socials:
@@ -57,7 +57,7 @@
         <img width="32" height="32" />
     </picture>
 </a>
-<a href="https://www.github.com/AsHuToShSiNgH02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+<a href="https://github.com/Abhishek-singh-007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  </a>
   
 ## Badges:
@@ -80,4 +80,4 @@
   />
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsHuToShSiNgH02&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-singh-007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
