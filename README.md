@@ -3,16 +3,16 @@
     <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
         <br>
-     I'm Ashutosh Singh.
+     I'm Abhishek Singh.
     </h1>
 </div>
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+AbhiTech.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 <h3 align="center">
-    I'm a fullstack Web Developer 🌐
+    I'm a Fullstack Web Developer 🌐
 </h3>
 <p align="center">
     Welcome to my digital portfolio where code meets creativity and security.<br>
@@ -21,16 +21,13 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in INDIA.
-* ✉️  You can contact me at [ashutoshin2002@gmail.com](mailto:ashutoshin2002@gmail.com)
+* ✉️  You can contact me at [abhishekmani1008@gmail.com](mailto:abhishekmani1008@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
-* 🧠  I'm currently learning App development. 
+* 🧠  I'm currently learning Artificial Intelligence and Machine Learning. 
 * 🤝  I'm open to collaborating on any interesting projects.
-* ⚡  I'm called TechApostle.
-  
-<a href="https://www.x.com/Ashutos2302" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AsHuToShSiNgH0?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
-<a href="https://www.linkedin.com/in/ashutosh-singh-5ab8252a7/" target="_blank" rel="noreferrer">
+* ⚡  I'm called AbhiTech.
+
+<a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
 
@@ -48,12 +45,12 @@ src="https://img.shields.io/twitter/follow/AsHuToShSiNgH0?logo=twitter&style=for
 
 ## Connect with me:
 
-<a href="https://www.leetcode.com/Ashutosh232002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashutosh232002" height="30" width="30" /></a>
+<a href="https://leetcode.com/u/abhiTech_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashutosh232002" height="30" width="30" /></a>
 </p>
 
 ## Socials:
 
-<a href="https://www.linkedin.com/in/ashutosh-singh-5ab8252a7/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/8.png" />
        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Linkedin.png" />
