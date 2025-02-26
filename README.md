@@ -33,7 +33,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 🌍  Connect Me on my Portfolio -> <b>click<b>
+* 🌍  Connect Me on my Portfolio ->  <button><a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
+</a>
+</button>
 
 ### Languages and Tools:
 
