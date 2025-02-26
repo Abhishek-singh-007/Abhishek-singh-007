@@ -37,6 +37,10 @@
 <a href="https://my-portfolio-six-tau-59.vercel.app/" target="_blank" rel="noreferrer">Click
 </a>
 
+🌍  Zia, My Virtual Assistance -> 
+<a href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">Click
+</a>
+
 
 ### Languages and Tools:
 
