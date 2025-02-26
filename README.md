@@ -39,7 +39,7 @@
 🌍  Zia, My Virtual Assistance -> 
 <a href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">Click
 </a></br>
-🌍  Kilimate -> 
+🌍  Klimate -> 
 <a href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">Click
 </a>
 
