@@ -25,11 +25,15 @@
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
 * 🧠  I'm currently learning Artificial Intelligence and Machine Learning. 
 * 🤝  I'm open to collaborating on any interesting projects.
-* ⚡  I'm called AbhiTech.
+* ⚡  I'm called AbhiTech.  
 
 <a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* 🌍  Connect Me on my Portfolio -> <b>click<b>
 
 ### Languages and Tools:
 
