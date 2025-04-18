@@ -33,41 +33,21 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <style>
-    .project-link {
-      display: inline-block;
-      margin: 10px 5px;
-      padding: 10px 20px;
-      border-radius: 30px;
-      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
 
-    .project-link:hover {
-      transform: scale(1.08);
-      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
-    }
 
-    .emoji {
-      margin-right: 8px;
-    }
-  </style>
+  
 
   <a class="project-link" href="https://my-portfolio-six-tau-59.vercel.app/" target="_blank" rel="noreferrer">
     🌍 Portfolio
-  </a>
+  </a> </br>
 
   <a class="project-link" href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">
     🤖 Zia - Virtual Assistant
-  </a>
+  </a></br>
 
   <a class="project-link" href="http://klimate-hazel.vercel.app" target="_blank" rel="noreferrer">
     🌦️ Klimate
-  </a>
+  </a></br>
 
   <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer">
     💬 Chit-Chatz
