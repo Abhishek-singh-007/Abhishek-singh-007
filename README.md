@@ -50,7 +50,7 @@
   </a></br>
 
   <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer">
-    💬 Chit-Chatz
+    💬 ChatZen AI
   </a>
 </div>
 
