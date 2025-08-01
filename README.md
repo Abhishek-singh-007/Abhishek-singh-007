@@ -41,6 +41,10 @@
     🌍 Portfolio
   </a> </br>
 
+  <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer">
+    💬 ChatZen AI
+  </a></br>
+
   <a class="project-link" href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">
     🤖 Zia - Virtual Assistant
   </a></br>
@@ -49,8 +53,8 @@
     🌦️ Klimate
   </a></br>
 
-  <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer">
-    💬 ChatZen AI
+  <a class="project-link" href="https://oyh-on-your-homes.onrender.com" target="_blank" rel="noreferrer">
+     On Your Home
   </a>
 </div>
 
