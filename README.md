@@ -41,6 +41,10 @@
     🌍 Portfolio
   </a> </br>
 
+  <a class="project-link" href="https://atai-build-your-future-with-ai.vercel.app/" target="_blank" rel="noreferrer">
+    💬 ATAI - Build Your Career with AI
+  </a>
+
   <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer">
     💬 ChatZen AI
   </a></br>
