@@ -37,7 +37,7 @@
 
   
 
-  <a class="project-link" href="https://my-portfolio-six-tau-59.vercel.app/" target="_blank" rel="noreferrer">
+  <a class="project-link" href="https://visitabhitech.netlify.app" target="_blank" rel="noreferrer">
     🌍 Portfolio
   </a> </br>
 
