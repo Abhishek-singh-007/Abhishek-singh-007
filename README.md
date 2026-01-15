@@ -61,7 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula" height="150"/>
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=false&cache_seconds=86400" 
+  height="150"
+/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula" height="150"/>
 </div>
 
