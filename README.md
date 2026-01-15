@@ -61,12 +61,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=false&cache_seconds=86400" 
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&cache_seconds=86400&v=1" 
+  height="150"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400&v=1" 
   height="150"
 />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
@@ -75,13 +78,9 @@
 
 <p align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=false&cache_seconds=86400" 
-  height="150"
+  src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6" 
 />
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" 
-/>
 
 
 ---
