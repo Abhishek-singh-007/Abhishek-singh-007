@@ -36,13 +36,7 @@
 
 ## 🚀 Featured Projects
 
-- 🌍 **Portfolio** – https://visitabhitech.netlify.app  
-- 🧠 **ATAI – Build Your Career with AI** – https://atai-build-your-future-with-ai.vercel.app  
-- 💬 **ChatZen AI** – https://chitchatz-he8g.onrender.com  
-- 🤖 **Zia – Virtual Assistant** – https://zia-my-virtual-assistance.vercel.app  
-- 🌦️ **Klimate** – https://klimate-hazel.vercel.app  
-- 🏠 **On Your Home** – https://oyh-on-your-homes.onrender.com  
-
+<a class="project-link" href="https://visitabhitech.netlify.app" target="_blank" rel="noreferrer"> 🌍 Portfolio </a> </br> <a class="project-link" href="https://atai-build-your-future-with-ai.vercel.app/" target="_blank" rel="noreferrer"> 🧠 ATAI - Build Your Career with AI </a></br> <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer"> 💬 ChatZen AI </a></br> <a class="project-link" href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer"> 🤖 Zia - Virtual Assistant </a></br> <a class="project-link" href="http://klimate-hazel.vercel.app" target="_blank" rel="noreferrer"> 🌦️ Klimate </a></br> <a class="project-link" href="https://oyh-on-your-homes.onrender.com" target="_blank" rel="noreferrer"> On Your Home </a> </div>
 ---
 
 ## 🛠 Languages & Tools
