@@ -6,9 +6,7 @@
   </h1>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub+profile!;Full+Stack+%26+Software Developer;Building+Scalable+Tech+Solutions" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" /> </h1>
 
 <h3 align="center">
   Full Stack Developer| Software Developer🌐
