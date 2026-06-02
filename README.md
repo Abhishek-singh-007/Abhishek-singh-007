@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://readme-stats.clehrke.workers.dev/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://readme-stats.clehrke.workers.dev/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
