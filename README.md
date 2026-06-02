@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150"/>
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4"/>
 </p>
 
 ---
