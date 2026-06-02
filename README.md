@@ -76,6 +76,12 @@
   <img src="https://streak-stats.demolab.com?user=Abhishek-singh-007&theme=dracula&hide_border=true" height="150"/>
 </div>
 
+## 🌍 Open Source Contributions
+
+| Date | Repository | PR | Status |
+|------|-----------|-----|--------|
+| 2 Jun 2026 | first-contributions | [Add Abhishek Kr Singh to Contributors list](https://github.com/firstcontributions/first-contributions) | 🟡 Open |
+
 ---
 
 ## 🔗 Connect With Me
