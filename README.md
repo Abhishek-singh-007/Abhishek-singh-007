@@ -6,11 +6,11 @@
   </h1>
 </div>
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" /> </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
 
-<h3 align="center">
-  Full Stack Developer | Software Developer 🌐
-</h3>
+<h3 align="center">Full Stack Developer | Software Developer 🌐</h3>
 
 <p align="center">
   Welcome to my digital space where <b>code meets creativity</b> 🚀 <br/>
@@ -21,10 +21,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in **India**
+- 🌍 Based in **Noida, India**
 - ✉️ Reach me at **[abhishekmani1008@gmail.com](mailto:abhishekmani1008@gmail.com)**
-- 🚀 Working on multiple projects (details coming soon 😉)
-- 🧠 Currently learning **AI & Machine Learning**
+- 🚀 Currently building **ATAI** — an AI-powered career platform
+- 🧠 Exploring **AI & Machine Learning**
 - 🤝 Open to collaboration on impactful projects
 - ⚡ Known as **AbhiTech**
 
@@ -36,24 +36,31 @@
 
 ## 🚀 Featured Projects
 
-<a class="project-link" href="https://visitabhitech.netlify.app" target="_blank" rel="noreferrer"> 🌍 Portfolio </a> </br> <a class="project-link" href="https://atai-build-your-future-with-ai.vercel.app/" target="_blank" rel="noreferrer"> 🧠 ATAI - Build Your Career with AI </a></br> <a class="project-link" href="https://chitchatz-he8g.onrender.com/" target="_blank" rel="noreferrer"> 💬 ChatZen AI </a></br> <a class="project-link" href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer"> 🤖 Zia - Virtual Assistant </a></br> <a class="project-link" href="http://klimate-hazel.vercel.app" target="_blank" rel="noreferrer"> 🌦️ Klimate </a></br> <a class="project-link" href="https://oyh-on-your-homes.onrender.com" target="_blank" rel="noreferrer"> On Your Home </a>
+| Project | Description |
+|---------|-------------|
+| [🧠 ATAI](https://atai-build-your-future-with-ai.vercel.app/) | AI-powered career building platform |
+| [💬 ChatZen AI](https://chitchatz-he8g.onrender.com/) | Connect with seniors & juniors, solve queries |
+| [🤖 Zia - Virtual Assistant](http://zia-my-virtual-assistance.vercel.app) | AI virtual assistant |
+| [✋ SignLearn](https://github.com/Abhishek-singh-007/SignLearn) | E-learning for deaf & mute community using sign language |
+| [🌦️ Klimate](http://klimate-hazel.vercel.app) | Weather application |
+| [🌍 Portfolio](https://visitabhitech.netlify.app) | Personal portfolio website |
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" title="Java"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/>
 </p>
 
 ---
@@ -61,15 +68,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- <img 
-  src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&cache_seconds=86400&v=1" 
-  height="150"
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400&v=1" 
-  height="150"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true" height="150"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-singh-007&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -77,11 +81,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-  src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6" 
-/>
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh-007&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
@@ -90,9 +91,11 @@
 <a href="https://leetcode.com/u/abhiTech_01/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
 </a>
+&nbsp;
 <a href="https://github.com/Abhishek-singh-007" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30"/>
 </a>
