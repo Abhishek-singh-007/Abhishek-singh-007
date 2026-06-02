@@ -67,10 +67,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-stats.clehrke.workers.dev/api?username=Abhishek-singh-007&show_icons=true&theme=dracula&hide_border=true" height="150"/>
   <img src="https://readme-stats.clehrke.workers.dev/api/top-langs/?username=Abhishek-singh-007&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishek-singh-007&theme=dracula&hide_border=true" height="150"/>
